@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VeriTech_TicTacToeGame/static/css/main.f4ea017b.css",
+    "main.js": "/VeriTech_TicTacToeGame/static/js/main.f075ea78.js",
+    "index.html": "/VeriTech_TicTacToeGame/index.html",
+    "main.f4ea017b.css.map": "/VeriTech_TicTacToeGame/static/css/main.f4ea017b.css.map",
+    "main.f075ea78.js.map": "/VeriTech_TicTacToeGame/static/js/main.f075ea78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ea017b.css",
+    "static/js/main.f075ea78.js"
+  ]
+}
